@@ -1,0 +1,4 @@
+C:\Users\Suporte1\Desktop\C#\C# Iniciante\Projetos\conta de telefone\conta de telefone\bin\Release\conta de telefone.exe
+C:\Users\Suporte1\Desktop\C#\C# Iniciante\Projetos\conta de telefone\conta de telefone\bin\Release\conta de telefone.pdb
+C:\Users\Suporte1\Desktop\C#\C# Iniciante\Projetos\conta de telefone\conta de telefone\obj\x86\Release\conta de telefone.exe
+C:\Users\Suporte1\Desktop\C#\C# Iniciante\Projetos\conta de telefone\conta de telefone\obj\x86\Release\conta de telefone.pdb

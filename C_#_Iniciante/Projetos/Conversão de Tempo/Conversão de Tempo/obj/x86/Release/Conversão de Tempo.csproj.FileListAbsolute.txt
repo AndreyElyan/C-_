@@ -1,0 +1,4 @@
+C:\Users\Suporte1\Desktop\C#\C# Iniciante\Projetos\Conversão de Tempo\Conversão de Tempo\bin\Release\Conversão de Tempo.exe
+C:\Users\Suporte1\Desktop\C#\C# Iniciante\Projetos\Conversão de Tempo\Conversão de Tempo\bin\Release\Conversão de Tempo.pdb
+C:\Users\Suporte1\Desktop\C#\C# Iniciante\Projetos\Conversão de Tempo\Conversão de Tempo\obj\x86\Release\Conversão de Tempo.exe
+C:\Users\Suporte1\Desktop\C#\C# Iniciante\Projetos\Conversão de Tempo\Conversão de Tempo\obj\x86\Release\Conversão de Tempo.pdb

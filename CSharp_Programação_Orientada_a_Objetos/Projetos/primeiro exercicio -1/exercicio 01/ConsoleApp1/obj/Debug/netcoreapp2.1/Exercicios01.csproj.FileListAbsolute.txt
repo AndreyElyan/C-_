@@ -1,0 +1,11 @@
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\primeiro exercicio -1\exercicio 01\ConsoleApp1\bin\Debug\netcoreapp2.1\Exercicios01.deps.json
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\primeiro exercicio -1\exercicio 01\ConsoleApp1\bin\Debug\netcoreapp2.1\Exercicios01.runtimeconfig.json
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\primeiro exercicio -1\exercicio 01\ConsoleApp1\bin\Debug\netcoreapp2.1\Exercicios01.runtimeconfig.dev.json
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\primeiro exercicio -1\exercicio 01\ConsoleApp1\bin\Debug\netcoreapp2.1\Exercicios01.dll
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\primeiro exercicio -1\exercicio 01\ConsoleApp1\bin\Debug\netcoreapp2.1\Exercicios01.pdb
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\primeiro exercicio -1\exercicio 01\ConsoleApp1\obj\Debug\netcoreapp2.1\Exercicios01.csproj.CoreCompileInputs.cache
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\primeiro exercicio -1\exercicio 01\ConsoleApp1\obj\Debug\netcoreapp2.1\Exercicios01.AssemblyInfoInputs.cache
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\primeiro exercicio -1\exercicio 01\ConsoleApp1\obj\Debug\netcoreapp2.1\Exercicios01.AssemblyInfo.cs
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\primeiro exercicio -1\exercicio 01\ConsoleApp1\obj\Debug\netcoreapp2.1\Exercicios01.dll
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\primeiro exercicio -1\exercicio 01\ConsoleApp1\obj\Debug\netcoreapp2.1\Exercicios01.pdb
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\primeiro exercicio -1\exercicio 01\ConsoleApp1\obj\Debug\netcoreapp2.1\Exercicios01.csprojAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Andrey\Desktop\Curso de Programação C# - Iniciante\Projetos\Operações Matématicas\Operações Matématicas\bin\Debug\Operações Matématicas.exe
+C:\Users\Andrey\Desktop\Curso de Programação C# - Iniciante\Projetos\Operações Matématicas\Operações Matématicas\bin\Debug\Operações Matématicas.pdb
+C:\Users\Andrey\Desktop\Curso de Programação C# - Iniciante\Projetos\Operações Matématicas\Operações Matématicas\obj\x86\Debug\Operações Matématicas.exe
+C:\Users\Andrey\Desktop\Curso de Programação C# - Iniciante\Projetos\Operações Matématicas\Operações Matématicas\obj\x86\Debug\Operações Matématicas.pdb
+C:\Users\Suporte1\Desktop\C#\C# Iniciante\Projetos\Operações Matématicas\Operações Matématicas\obj\x86\Debug\Operações Matématicas.exe

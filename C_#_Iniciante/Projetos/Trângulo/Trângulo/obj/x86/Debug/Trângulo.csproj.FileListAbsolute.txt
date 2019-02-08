@@ -1,0 +1,4 @@
+C:\Users\Andrey\Desktop\Curso de Programação C# - Iniciante\Projetos\Trângulo\Trângulo\bin\Debug\Trângulo.exe
+C:\Users\Andrey\Desktop\Curso de Programação C# - Iniciante\Projetos\Trângulo\Trângulo\bin\Debug\Trângulo.pdb
+C:\Users\Andrey\Desktop\Curso de Programação C# - Iniciante\Projetos\Trângulo\Trângulo\obj\x86\Debug\Trângulo.exe
+C:\Users\Andrey\Desktop\Curso de Programação C# - Iniciante\Projetos\Trângulo\Trângulo\obj\x86\Debug\Trângulo.pdb

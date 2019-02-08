@@ -1,0 +1,11 @@
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\exercicios fixação 1\exercicios1\exercicios1\bin\Debug\netcoreapp2.1\exercicios1.deps.json
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\exercicios fixação 1\exercicios1\exercicios1\bin\Debug\netcoreapp2.1\exercicios1.runtimeconfig.json
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\exercicios fixação 1\exercicios1\exercicios1\bin\Debug\netcoreapp2.1\exercicios1.runtimeconfig.dev.json
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\exercicios fixação 1\exercicios1\exercicios1\bin\Debug\netcoreapp2.1\exercicios1.dll
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\exercicios fixação 1\exercicios1\exercicios1\bin\Debug\netcoreapp2.1\exercicios1.pdb
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\exercicios fixação 1\exercicios1\exercicios1\obj\Debug\netcoreapp2.1\exercicios1.csprojAssemblyReference.cache
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\exercicios fixação 1\exercicios1\exercicios1\obj\Debug\netcoreapp2.1\exercicios1.csproj.CoreCompileInputs.cache
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\exercicios fixação 1\exercicios1\exercicios1\obj\Debug\netcoreapp2.1\exercicios1.AssemblyInfoInputs.cache
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\exercicios fixação 1\exercicios1\exercicios1\obj\Debug\netcoreapp2.1\exercicios1.AssemblyInfo.cs
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\exercicios fixação 1\exercicios1\exercicios1\obj\Debug\netcoreapp2.1\exercicios1.dll
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\exercicios fixação 1\exercicios1\exercicios1\obj\Debug\netcoreapp2.1\exercicios1.pdb

@@ -1,0 +1,11 @@
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\classes, e atributos\Classes_e_Atributos\Classes e Atributos\obj\Debug\netcoreapp2.1\Classes e Atributos.csproj.CoreCompileInputs.cache
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\classes, e atributos\Classes_e_Atributos\Classes e Atributos\obj\Debug\netcoreapp2.1\Classes e Atributos.AssemblyInfoInputs.cache
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\classes, e atributos\Classes_e_Atributos\Classes e Atributos\obj\Debug\netcoreapp2.1\Classes e Atributos.AssemblyInfo.cs
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\classes, e atributos\Classes_e_Atributos\Classes e Atributos\bin\Debug\netcoreapp2.1\Classes e Atributos.deps.json
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\classes, e atributos\Classes_e_Atributos\Classes e Atributos\bin\Debug\netcoreapp2.1\Classes e Atributos.runtimeconfig.json
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\classes, e atributos\Classes_e_Atributos\Classes e Atributos\bin\Debug\netcoreapp2.1\Classes e Atributos.runtimeconfig.dev.json
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\classes, e atributos\Classes_e_Atributos\Classes e Atributos\bin\Debug\netcoreapp2.1\Classes e Atributos.dll
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\classes, e atributos\Classes_e_Atributos\Classes e Atributos\bin\Debug\netcoreapp2.1\Classes e Atributos.pdb
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\classes, e atributos\Classes_e_Atributos\Classes e Atributos\obj\Debug\netcoreapp2.1\Classes e Atributos.csprojAssemblyReference.cache
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\classes, e atributos\Classes_e_Atributos\Classes e Atributos\obj\Debug\netcoreapp2.1\Classes e Atributos.dll
+C:\Users\Suporte1\Desktop\C#\C# Programação Orientada a Objetos\Projetos\classes, e atributos\Classes_e_Atributos\Classes e Atributos\obj\Debug\netcoreapp2.1\Classes e Atributos.pdb
